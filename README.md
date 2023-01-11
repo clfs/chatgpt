@@ -1,5 +1,5 @@
 # chatgpt
-A tiny ChatGPT3 CLI. It uses the most expensive model with maximum token length,
+A tiny ChatGPT3 CLI. It uses the most expensive model with maximal token count,
 so one query can cost up to $0.08 (as of Jan 2023).
 
 Install or update:
