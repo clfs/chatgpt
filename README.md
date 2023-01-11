@@ -1,5 +1,5 @@
 # chatgpt
-A tiny ChapGPT3 CLI.
+A tiny ChatGPT3 CLI.
 
 Install or update:
 
