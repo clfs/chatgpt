@@ -59,7 +59,7 @@ func main() {
 	client := newClient(getKey())
 	ctx := context.Background()
 
-	fmt.Println(`type "exit", "quit", or "q" to exit; hit enter to submit`)
+	fmt.Println(`enter to submit & "q" to stop`)
 	fmt.Printf("%s ", green(">"))
 
 	scanner := bufio.NewScanner(os.Stdin)

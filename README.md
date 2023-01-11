@@ -1,5 +1,6 @@
 # chatgpt
-A tiny ChatGPT3 CLI.
+A tiny ChatGPT3 CLI. It uses the most expensive model with maximum token length,
+so one query can cost up to $0.08 (as of Jan 2023).
 
 Install or update:
 
@@ -18,7 +19,7 @@ Usage:
 ```text
 $ export GPT3_KEY="sk-..." # this should go in, e.g., ~/.zshenv
 $ chatgpt
-type "exit", "quit", or "q" to exit; hit enter to submit
+enter to submit & "q" to stop
 > What's the capital of China?
 > Beijing is the capital of China.
 > q
